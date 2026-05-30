@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Pelham Meetings Test</title>
+    <link>https://example.com</link>
+    <description>Test feed</description>
+
+    <item>
+      <title>Village Meeting 2498</title>
+      <pubDate>Fri, 29 May 2026 12:00:00 GMT</pubDate>
+      <enclosure
+        url="https://cpmedia.azureedge.net/pelhamny/5b34b540-abe7-4cb4-b923-0363a8d0cd38.mp4"
+        length="0"
+        type="video/mp4" />
+      <guid>pelham-2498</guid>
+    </item>
+  </channel>
+</rss>
