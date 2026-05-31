@@ -1,27 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Pelham Meetings Test</title>
-    <link>https://example.com</link>
-    <description>Test feed</description>
+    <title>Pelham Meetings</title>
+    <link>https://bpapa.github.io/pelham-podcast/</link>
+    <description>Pelham civic meetings as a private video podcast.</description>
+    <language>en-us</language>
 
     <item>
-      <title>Village Meeting 2498</title>
-      <pubDate>Fri, 29 May 2026 12:00:00 GMT</pubDate>
+      <title>Meeting 2498</title>
+      <guid>pelham-2498</guid>
+      <pubDate>Sun, 31 May 2026 12:00:00 GMT</pubDate>
       <enclosure
         url="https://cpmedia.azureedge.net/pelhamny/5b34b540-abe7-4cb4-b923-0363a8d0cd38.mp4"
         length="0"
         type="video/mp4" />
-      <guid>pelham-2498</guid>
     </item>
-<item>
-      <title>Village Meeting 2499</title>
-      <pubDate>Fri, 29 May 2026 12:00:00 GMT</pubDate>
+
+    <item>
+      <title>Meeting 2506</title>
+      <guid>pelham-2506</guid>
+      <pubDate>Sat, 30 May 2026 12:00:00 GMT</pubDate>
       <enclosure
         url="https://cpmedia.azureedge.net/pelhamny/73924807-3aca-4bb2-952c-3acdb70badce.mp4"
         length="0"
         type="video/mp4" />
-      <guid>pelham-2499</guid>
     </item>
+
+    <item>
+      <title>Meeting 2507</title>
+      <guid>pelham-2507</guid>
+      <pubDate>Fri, 29 May 2026 12:00:00 GMT</pubDate>
+      <enclosure
+        url="https://cpmedia.azureedge.net/pelhamny/a47f7515-304d-4a43-b9a7-6ba48a96990b.mp4"
+        length="0"
+        type="video/mp4" />
+    </item>
+
   </channel>
 </rss>
+
