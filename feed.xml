@@ -1,41 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+
   <channel>
-    <title>Pelham Meetings</title>
+    <title>Village of Pelham Meeting Videos</title>
     <link>https://bpapa.github.io/pelham-podcast/</link>
-    <description>Pelham civic meetings as a private video podcast.</description>
+    <description>Village of Pelham Meeting Videos</description>
     <language>en-us</language>
 
+    <itunes:image href="https://www.pelhamny.gov/ImageRepository/Document?documentID=63" />
+
+    <image>
+      <url>https://www.pelhamny.gov/ImageRepository/Document?documentID=63</url>
+      <title>Village of Pelham Meeting Videos</title>
+      <link>https://bpapa.github.io/pelham-podcast/</link>
+    </image>
+
     <item>
-      <title>Meeting 2498</title>
-      <guid>pelham-2498</guid>
-      <pubDate>Sun, 31 May 2026 12:00:00 GMT</pubDate>
-      <enclosure
-        url="https://cpmedia.azureedge.net/pelhamny/5b34b540-abe7-4cb4-b923-0363a8d0cd38.mp4"
-        length="0"
-        type="video/mp4" />
+      <title>Mayor and Village Board of Trustees Work Session</title>
+      <guid>pelham-work-session-2026-05-26</guid>
+      <pubDate>Tue, 26 May 2026 23:00:00 GMT</pubDate>
+      <itunes:duration>24:04</itunes:duration>
+      <enclosure url="https://cpmedia.azureedge.net/pelhamny/5b34b540-abe7-4cb4-b923-0363a8d0cd38.mp4" length="0" type="video/mp4" />
     </item>
 
     <item>
-      <title>Meeting 2506</title>
-      <guid>pelham-2506</guid>
-      <pubDate>Sat, 30 May 2026 12:00:00 GMT</pubDate>
-      <enclosure
-        url="https://cpmedia.azureedge.net/pelhamny/73924807-3aca-4bb2-952c-3acdb70badce.mp4"
-        length="0"
-        type="video/mp4" />
+      <title>Mayor and Village Board of Trustees Regular Meeting</title>
+      <guid>pelham-regular-meeting-2026-05-26</guid>
+      <pubDate>Wed, 27 May 2026 00:00:00 GMT</pubDate>
+      <itunes:duration>26:04</itunes:duration>
+      <enclosure url="https://cpmedia.azureedge.net/pelhamny/73924807-3aca-4bb2-952c-3acdb70badce.mp4" length="0" type="video/mp4" />
     </item>
 
     <item>
-      <title>Meeting 2507</title>
-      <guid>pelham-2507</guid>
-      <pubDate>Fri, 29 May 2026 12:00:00 GMT</pubDate>
-      <enclosure
-        url="https://cpmedia.azureedge.net/pelhamny/a47f7515-304d-4a43-b9a7-6ba48a96990b.mp4"
-        length="0"
-        type="video/mp4" />
+      <title>Zoning Board of Appeals</title>
+      <guid>pelham-zba-2026-05-27</guid>
+      <pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
+      <itunes:duration>1:29:31</itunes:duration>
+      <enclosure url="https://cpmedia.azureedge.net/pelhamny/a47f7515-304d-4a43-b9a7-6ba48a96990b.mp4" length="0" type="video/mp4" />
     </item>
 
   </channel>
 </rss>
-
