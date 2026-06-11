@@ -1,44 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <rss version="2.0"
-     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 
   <channel>
     <title>Village of Pelham Meeting Videos</title>
-    <link>https://bpapa.github.io/pelham-podcast/</link>
+    <link>https://bpapa.github.io/vop-meetings-video-podcast/</link>
     <description>Village of Pelham Meeting Videos</description>
     <language>en-us</language>
 
-    <itunes:image href="https://www.pelhamny.gov/ImageRepository/Document?documentID=63" />
+```
+<itunes:image href="https://www.pelhamny.gov/ImageRepository/Document?documentID=63" />
 
-    <image>
-      <url>https://www.pelhamny.gov/ImageRepository/Document?documentID=63</url>
-      <title>Village of Pelham Meeting Videos</title>
-      <link>https://bpapa.github.io/pelham-podcast/</link>
-    </image>
+<image>
+  <url>https://www.pelhamny.gov/ImageRepository/Document?documentID=63</url>
+  <title>Village of Pelham Meeting Videos</title>
+  <link>https://bpapa.github.io/vop-meetings-video-podcast/</link>
+</image>
 
-    <item>
-      <title>Mayor and Village Board of Trustees Work Session</title>
-      <guid>pelham-work-session-2026-05-26</guid>
-      <pubDate>Tue, 26 May 2026 23:00:00 GMT</pubDate>
-      <itunes:duration>24:04</itunes:duration>
-      <enclosure url="https://cpmedia.azureedge.net/pelhamny/5b34b540-abe7-4cb4-b923-0363a8d0cd38.mp4" length="0" type="video/mp4" />
-    </item>
+<item>
+  <title>Mayor and Village Board of Trustees Regular Meeting</title>
+  <guid>pelham-regular-meeting-2026-06-09</guid>
+  <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+  <enclosure url="https://cpmedia.azureedge.net/pelhamny/ace4feab-4e02-4dcb-9147-76bcf080b086.mp4" length="0" type="video/mp4" />
+</item>
 
-    <item>
-      <title>Mayor and Village Board of Trustees Regular Meeting</title>
-      <guid>pelham-regular-meeting-2026-05-26</guid>
-      <pubDate>Wed, 27 May 2026 00:00:00 GMT</pubDate>
-      <itunes:duration>26:04</itunes:duration>
-      <enclosure url="https://cpmedia.azureedge.net/pelhamny/73924807-3aca-4bb2-952c-3acdb70badce.mp4" length="0" type="video/mp4" />
-    </item>
+<item>
+  <title>Mayor and Village Board of Trustees Work Session</title>
+  <guid>pelham-work-session-2026-06-09</guid>
+  <pubDate>Tue, 09 Jun 2026 23:00:00 GMT</pubDate>
+  <enclosure url="https://cpmedia.azureedge.net/pelhamny/9230a471-5fe5-4585-9147-bac7b19cf9e4.mp4" length="0" type="video/mp4" />
+</item>
 
-    <item>
-      <title>Zoning Board of Appeals</title>
-      <guid>pelham-zba-2026-05-27</guid>
-      <pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
-      <itunes:duration>1:29:31</itunes:duration>
-      <enclosure url="https://cpmedia.azureedge.net/pelhamny/a47f7515-304d-4a43-b9a7-6ba48a96990b.mp4" length="0" type="video/mp4" />
-    </item>
+<item>
+  <title>Mayor and Village Board of Trustees Special Meeting</title>
+  <guid>pelham-special-meeting-2026-06-01</guid>
+  <pubDate>Mon, 01 Jun 2026 12:00:00 GMT</pubDate>
+  <enclosure url="https://cpmedia.azureedge.net/pelhamny/21151e18-3cf5-4655-974c-2b734fd277c5.mp4" length="0" type="video/mp4" />
+</item>
+
+<item>
+  <title>Zoning Board of Appeals</title>
+  <guid>pelham-zba-2026-05-27</guid>
+  <pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
+  <itunes:duration>1:29:31</itunes:duration>
+  <enclosure url="https://cpmedia.azureedge.net/pelhamny/a47f7515-304d-4a43-b9a7-6ba48a96990b.mp4" length="0" type="video/mp4" />
+</item>
+
+<item>
+  <title>Mayor and Village Board of Trustees Regular Meeting</title>
+  <guid>pelham-regular-meeting-2026-05-26</guid>
+  <pubDate>Wed, 27 May 2026 00:00:00 GMT</pubDate>
+  <itunes:duration>26:04</itunes:duration>
+  <enclosure url="https://cpmedia.azureedge.net/pelhamny/73924807-3aca-4bb2-952c-3acdb70badce.mp4" length="0" type="video/mp4" />
+</item>
+
+<item>
+  <title>Mayor and Village Board of Trustees Work Session</title>
+  <guid>pelham-work-session-2026-05-26</guid>
+  <pubDate>Tue, 26 May 2026 23:00:00 GMT</pubDate>
+  <itunes:duration>24:04</itunes:duration>
+  <enclosure url="https://cpmedia.azureedge.net/pelhamny/5b34b540-abe7-4cb4-b923-0363a8d0cd38.mp4" length="0" type="video/mp4" />
+</item>
+```
 
   </channel>
 </rss>
