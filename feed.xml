@@ -1,147 +1,172 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Village of Pelham Meeting Videos</title>
     <link>https://bpapa.github.io/vop-meetings-video-podcast/</link>
     <description>Village of Pelham Meeting Videos</description>
     <language>en-us</language>
-
     <itunes:image href="https://www.pelhamny.gov/ImageRepository/Document?documentID=63" />
-
     <image>
       <url>https://www.pelhamny.gov/ImageRepository/Document?documentID=63</url>
       <title>Village of Pelham Meeting Videos</title>
       <link>https://bpapa.github.io/vop-meetings-video-podcast/</link>
     </image>
-
+    <item>
+      <title>Zoning Board of Appeals</title>
+      <guid>pelham-zba-2026-10-28</guid>
+      <pubDate>Wed, 28 Oct 2026 12:00:00 GMT</pubDate>
+      <enclosure url="https://cpmedia.azureedge.net/pelhamny/8cd79502-2dcb-4d66-8730-f5814a885b8a.mp4" length="0" type="video/mp4" />
+    </item>
+    <item>
+      <title>Mayor and Village Board of Trustees Regular Meeting</title>
+      <guid>pelham-regular-meeting-2026-10-27</guid>
+      <pubDate>Tue, 27 Oct 2026 12:00:00 GMT</pubDate>
+      <enclosure url="https://cpmedia.azureedge.net/pelhamny/1aeb1b0b-aed2-4600-8311-89d299140ced.mp4" length="0" type="video/mp4" />
+    </item>
+    <item>
+      <title>Mayor and Village Board of Trustees Work Session</title>
+      <guid>pelham-work-session-2026-10-27</guid>
+      <pubDate>Tue, 27 Oct 2026 12:00:00 GMT</pubDate>
+      <enclosure url="https://cpmedia.azureedge.net/pelhamny/b737cb14-e2c8-44c0-b481-bcfe86bb010f.mp4" length="0" type="video/mp4" />
+    </item>
+    <item>
+      <title>Council on the Arts</title>
+      <guid>pelham-council-on-the-arts-2026-10-26</guid>
+      <pubDate>Mon, 26 Oct 2026 12:00:00 GMT</pubDate>
+      <enclosure url="https://cpmedia.azureedge.net/pelhamny/9896b245-c4fa-44a4-b53b-59651cd49eb0.mp4" length="0" type="video/mp4" />
+    </item>
+    <item>
+      <title>Architectural Review Board</title>
+      <guid>pelham-architectural-review-board-2026-10-21</guid>
+      <pubDate>Wed, 21 Oct 2026 12:00:00 GMT</pubDate>
+      <enclosure url="https://cpmedia.azureedge.net/pelhamny/4dd8ee26-5988-41f7-b90e-ac39f73f7426.mp4" length="0" type="video/mp4" />
+    </item>
+    <item>
+      <title>Mayor and Village Board of Trustees Regular Meeting</title>
+      <guid>pelham-regular-meeting-2026-10-13</guid>
+      <pubDate>Tue, 13 Oct 2026 12:00:00 GMT</pubDate>
+      <enclosure url="https://cpmedia.azureedge.net/pelhamny/7feb2e44-cdbb-44dd-ad6f-b328e6d8ffff.mp4" length="0" type="video/mp4" />
+    </item>
+    <item>
+      <title>Mayor and Village Board of Trustees Work Session</title>
+      <guid>pelham-work-session-2026-10-13</guid>
+      <pubDate>Tue, 13 Oct 2026 12:00:00 GMT</pubDate>
+      <enclosure url="https://cpmedia.azureedge.net/pelhamny/a5964b63-d7a0-43dd-84fa-5494caf92198.mp4" length="0" type="video/mp4" />
+    </item>
+    <item>
+      <title>Zoning Board of Appeals</title>
+      <guid>pelham-zba-2026-09-30</guid>
+      <pubDate>Wed, 30 Sep 2026 12:00:00 GMT</pubDate>
+      <enclosure url="https://cpmedia.azureedge.net/pelhamny/dcebde07-7e25-4e25-9916-55e14bc7b4e4.mp4" length="0" type="video/mp4" />
+    </item>
     <item>
       <title>Mayor and Village Board of Trustees Regular Meeting</title>
       <guid>pelham-regular-meeting-2026-09-22</guid>
       <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
       <enclosure url="https://cpmedia.azureedge.net/pelhamny/92f922bd-28cf-4b58-9a1e-28c0c4c64b00.mp4" length="0" type="video/mp4" />
     </item>
-
     <item>
       <title>Mayor and Village Board of Trustees Work Session</title>
       <guid>pelham-work-session-2026-09-22</guid>
       <pubDate>Tue, 22 Sep 2026 23:00:00 GMT</pubDate>
       <enclosure url="https://cpmedia.azureedge.net/pelhamny/17138c8a-eee6-4909-90a8-9cb1b654a89a.mp4" length="0" type="video/mp4" />
     </item>
-
     <item>
       <title>Architectural Review Board</title>
       <guid>pelham-architectural-review-board-2026-09-16</guid>
       <pubDate>Wed, 16 Sep 2026 23:00:00 GMT</pubDate>
       <enclosure url="https://cpmedia.azureedge.net/pelhamny/79ae4bd0-a8a4-404d-a8eb-6b521df73daa.mp4" length="0" type="video/mp4" />
     </item>
-
     <item>
       <title>Planning Board</title>
       <guid>pelham-planning-board-2026-09-15</guid>
       <pubDate>Tue, 15 Sep 2026 23:00:00 GMT</pubDate>
       <enclosure url="https://cpmedia.azureedge.net/pelhamny/bff811eb-09d1-46ff-918d-c8a11a5df042.mp4" length="0" type="video/mp4" />
     </item>
-
     <item>
       <title>Mayor and Village Board of Trustees Regular Meeting</title>
       <guid>pelham-regular-meeting-2026-09-08</guid>
       <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
       <enclosure url="https://cpmedia.azureedge.net/pelhamny/bbd30520-8094-4fc0-92b2-ecd0aaf56778.mp4" length="0" type="video/mp4" />
     </item>
-
     <item>
       <title>Mayor and Village Board of Trustees Work Session</title>
       <guid>pelham-work-session-2026-09-08</guid>
       <pubDate>Tue, 08 Sep 2026 23:00:00 GMT</pubDate>
       <enclosure url="https://cpmedia.azureedge.net/pelhamny/d9d3f0d4-06cb-4d03-99f5-443922ec3929.mp4" length="0" type="video/mp4" />
     </item>
-
     <item>
       <title>Mayor and Village Board of Trustees Regular Meeting</title>
       <guid>pelham-regular-meeting-2026-08-11</guid>
       <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
       <enclosure url="https://cpmedia.azureedge.net/pelhamny/032181a4-6e4a-4357-9be1-33a08f767d5a.mp4" length="0" type="video/mp4" />
     </item>
-
     <item>
       <title>Mayor and Village Board of Trustees Work Session</title>
       <guid>pelham-work-session-2026-08-11</guid>
       <pubDate>Tue, 11 Aug 2026 23:00:00 GMT</pubDate>
       <enclosure url="https://cpmedia.azureedge.net/pelhamny/91e93100-8269-4e78-9b43-4ceaceddfdd7.mp4" length="0" type="video/mp4" />
     </item>
-
     <item>
       <title>Zoning Board of Appeals</title>
       <guid>pelham-zba-2026-07-29</guid>
       <pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
       <enclosure url="https://cpmedia.azureedge.net/pelhamny/92aea643-18e8-42e5-8bf2-7306b084fdf0.mp4" length="0" type="video/mp4" />
     </item>
-
     <item>
       <title>Mayor and Village Board of Trustees Regular Meeting</title>
       <guid>pelham-regular-meeting-2026-07-14</guid>
       <pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
       <enclosure url="https://cpmedia.azureedge.net/pelhamny/c992d446-4d2a-4426-bd30-b08c1f233e0e.mp4" length="0" type="video/mp4" />
     </item>
-
     <item>
       <title>Mayor and Village Board of Trustees Work Session</title>
       <guid>pelham-work-session-2026-07-14</guid>
       <pubDate>Tue, 14 Jul 2026 23:00:00 GMT</pubDate>
       <enclosure url="https://cpmedia.azureedge.net/pelhamny/0ca1c964-606c-40d9-ace6-29f6bac41057.mp4" length="0" type="video/mp4" />
     </item>
-
     <item>
       <title>Zoning Board of Appeals</title>
       <guid>pelham-zba-2026-06-24</guid>
       <pubDate>Thu, 25 Jun 2026 00:00:00 GMT</pubDate>
       <enclosure url="https://cpmedia.azureedge.net/pelhamny/7aacbc94-c9dd-4d17-9fe0-464701e70968.mp4" length="0" type="video/mp4" />
     </item>
-
     <item>
       <title>Mayor and Village Board of Trustees Regular Meeting</title>
       <guid>pelham-regular-meeting-2026-06-23</guid>
       <pubDate>Wed, 24 Jun 2026 00:00:00 GMT</pubDate>
       <enclosure url="https://cpmedia.azureedge.net/pelhamny/1f272798-d7ba-4eea-9cb3-7e991ed25ab3.mp4" length="0" type="video/mp4" />
     </item>
-
     <item>
       <title>Mayor and Village Board of Trustees Work Session</title>
       <guid>pelham-work-session-2026-06-23</guid>
       <pubDate>Tue, 23 Jun 2026 23:00:00 GMT</pubDate>
       <enclosure url="https://cpmedia.azureedge.net/pelhamny/b1bedc4e-9de7-42f7-b280-fd9b7cf3ce40.mp4" length="0" type="video/mp4" />
     </item>
-
     <item>
       <title>Council on the Arts</title>
       <guid>pelham-council-on-the-arts-2026-06-15</guid>
       <pubDate>Mon, 15 Jun 2026 23:00:00 GMT</pubDate>
       <enclosure url="https://cpmedia.azureedge.net/pelhamny/9cb2e09d-2c62-4b96-a05b-57f278b7f66c.mp4" length="0" type="video/mp4" />
     </item>
-
     <item>
       <title>Mayor and Village Board of Trustees Regular Meeting</title>
       <guid>pelham-regular-meeting-2026-06-09</guid>
       <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
       <enclosure url="https://cpmedia.azureedge.net/pelhamny/ace4feab-4e02-4dcb-9147-76bcf080b086.mp4" length="0" type="video/mp4" />
     </item>
-
     <item>
       <title>Mayor and Village Board of Trustees Work Session</title>
       <guid>pelham-work-session-2026-06-09</guid>
       <pubDate>Tue, 09 Jun 2026 23:00:00 GMT</pubDate>
       <enclosure url="https://cpmedia.azureedge.net/pelhamny/9230a471-5fe5-4585-9147-bac7b19cf9e4.mp4" length="0" type="video/mp4" />
     </item>
-
     <item>
       <title>Mayor and Village Board of Trustees Special Meeting</title>
       <guid>pelham-special-meeting-2026-06-01</guid>
       <pubDate>Mon, 01 Jun 2026 12:00:00 GMT</pubDate>
       <enclosure url="https://cpmedia.azureedge.net/pelhamny/21151e18-3cf5-4655-974c-2b734fd277c5.mp4" length="0" type="video/mp4" />
     </item>
-
     <item>
       <title>Zoning Board of Appeals</title>
       <guid>pelham-zba-2026-05-27</guid>
@@ -149,7 +174,6 @@
       <itunes:duration>1:29:31</itunes:duration>
       <enclosure url="https://cpmedia.azureedge.net/pelhamny/a47f7515-304d-4a43-b9a7-6ba48a96990b.mp4" length="0" type="video/mp4" />
     </item>
-
     <item>
       <title>Mayor and Village Board of Trustees Regular Meeting</title>
       <guid>pelham-regular-meeting-2026-05-26</guid>
@@ -157,7 +181,6 @@
       <itunes:duration>26:04</itunes:duration>
       <enclosure url="https://cpmedia.azureedge.net/pelhamny/73924807-3aca-4bb2-952c-3acdb70badce.mp4" length="0" type="video/mp4" />
     </item>
-
     <item>
       <title>Mayor and Village Board of Trustees Work Session</title>
       <guid>pelham-work-session-2026-05-26</guid>
@@ -165,6 +188,5 @@
       <itunes:duration>24:04</itunes:duration>
       <enclosure url="https://cpmedia.azureedge.net/pelhamny/5b34b540-abe7-4cb4-b923-0363a8d0cd38.mp4" length="0" type="video/mp4" />
     </item>
-
   </channel>
 </rss>
